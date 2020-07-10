@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently working on next generation storage @scality
+
+Having fun on writing software, squashing bugs and learning something new every day :)
+
 <!--
 **benoit-a/benoit-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
